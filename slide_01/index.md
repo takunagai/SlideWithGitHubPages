@@ -6,15 +6,20 @@
 
 ## Slide URL
 
-- https://github.io/takunagai/SlideWithGitHubPages/index.html?slide=slide_01/index.md
+- https://takunagai.github.io/SlideWithGitHubPages/index.html?slide=slide_01/index.md
 
 ---
+
+<section data-background="img/img2.jpg">
 
 ## リスト
 
 - List1
 - List2
 - List3
+
+</section>
+
 
 ---
 
