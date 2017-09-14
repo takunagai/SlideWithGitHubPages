@@ -12,8 +12,11 @@
  
 ## リストです
 
+<b>HTMLタグのテスト</b>
+
 - List1
 - List2
+- List2.5
 - List3
 
 ---
