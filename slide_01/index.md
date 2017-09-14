@@ -10,15 +10,13 @@
 
 ---
 
-<section data-background="img/img2.jpg">
 
 ## リスト
 
 - List1
 - List2
 - List3
-
-</section>
+- List4
 
 
 ---
