@@ -9,15 +9,12 @@
 - https://takunagai.github.io/SlideWithGitHubPages/index.html?slide=slide_01/index.md
 
 ---
-
-
-## リスト
+ 
+## リストです
 
 - List1
 - List2
 - List3
-- List4
-
 
 ---
 
