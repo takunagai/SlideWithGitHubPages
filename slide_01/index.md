@@ -3,6 +3,10 @@
 日時：2017年9月27日 14時〜  
 場所：◯◯◯◯
 
+<!--
+https://github.com/yamap55/SlideWithGitHubPages
+-->
+
 ---
 
 ## はじめに
@@ -133,5 +137,5 @@ public class HelloWorld {
 
 ## おわり
 
-ご清聴ありがとうございました。  今後ご活用いただければ幸いです。
+ご清聴ありがとうございました。  今後のご活用のヒントになれば幸いです。
 ![御礼イラスト](img/ojigi_animal_inu.png)
